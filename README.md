@@ -1,8 +1,8 @@
 ## Netflix Landing Page Clone
-##📄 Description
+## 📄 Description
 This is a front-end clone of the official Netflix landing page, developed using HTML, CSS, and JavaScript. The project aims to replicate Netflix's clean design and responsive layout while demonstrating strong foundational web development skills.
 
-##✨ Features
+## ✨ Features
 Fully responsive design (desktop, tablet, mobile)
 
 Hero section with background image and CTA
@@ -13,7 +13,7 @@ Structured and clean UI components
 
 Pixel-perfect layout inspired by the official Netflix site
 
-##🛠️ Tools & Technologies Used
+## 🛠️ Tools & Technologies Used
 HTML5
 
 CSS3 (Flexbox & Grid)
